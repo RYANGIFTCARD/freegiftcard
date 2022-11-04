@@ -1,0 +1,14 @@
+
+
+
+Edit "button.html"
+
+Find this code
+
+<a id="verify" href="YOUR_LINK_LOCKER_HERE" rel="nofollow noreferrer" target="_blank">
+
+Replace YOUR_LINK_LOCKER_HERE with your locker link
+
+example:
+
+<a id="verify" href="https://downloadlocked.com/cl/i/g69em2" rel="nofollow noreferrer" target="_blank">
